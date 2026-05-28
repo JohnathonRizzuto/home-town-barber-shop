@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://home-town-barber-shop.vercel.app/sitemap.xml
